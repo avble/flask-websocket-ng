@@ -8,7 +8,8 @@ It demonstrates how to serve the wsgi request and websocket in the same applicat
 
 
 # how to run
+
+```python
 $ python app.py
 $ visit page http://127.0.0.1:8080
-
-
+```
